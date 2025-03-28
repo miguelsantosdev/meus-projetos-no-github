@@ -1,2 +1,6 @@
 # meus-projetos-no-github
- Projetos feitos por mim, do zero, para aprimorar minhas habilidades e criar interfaces iradas portfólio no github
+ Repositório- para todos os meus projetos no GitHub. Aqui é onde eu crio, me divirto, destrro e faço novamente todos os meus Projetos. Espero que gostem ! 😁
+ <br>
+ Este repositório está em construção ! ⚠️
+ <br>
+ <hr>
