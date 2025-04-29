@@ -1,0 +1,19 @@
+.main-action{
+    display: inline-flex;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    align-items: center;
+}
+
+.main-action::before{
+    content: "";
+    background-color: antiquewhite;
+    width: 6px;
+    height: 4px;
+    margin-right: 10px;
+}

@@ -1,0 +1,28 @@
+.login-button{
+    display: inline-block;
+    background-color: greenyellow;
+    height: 10px;
+    line-height: 10px;
+    padding: 18px 20px;
+    margin-right: 0px;
+    box-shadow: 1px 1px 3px 3px black;
+    transition: transform 300ms linear, 2 ease-in-out;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: "Poppins", serif;
+}
+
+.login-button:hover{
+    transform: scale(1.05);
+    opacity: 0.6;
+}
+
+.login-button.-fullbutton{
+    width: 100%;
+}
+
+.login-button.-fullbutton:hover{
+    transform: scale(1.05);
+}

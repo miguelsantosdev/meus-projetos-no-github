@@ -1,0 +1,11 @@
+nav {
+    text-align: center;
+}
+
+header{
+    justify-content: space-between;
+    background-color: green;
+    border-bottom: 5px solid black;
+    padding: 10px 50px;    
+}
+
